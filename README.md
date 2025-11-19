@@ -3,7 +3,7 @@
 A Unity component that applies smoothing to **Particle System** ribbon trails.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/026388eb-c775-4041-9b6c-fb128337e025" alt="TestLine" width="600"/>
+  <img src="https://github.com/user-attachments/assets/026388eb-c775-4041-9b6c-fb128337e025" alt="TestLine" width="500"/>
 </p>
 
 ## References
